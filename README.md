@@ -1,6 +1,6 @@
 ## ¡Hola! Soy Jose Manuel 👋
 
-Soy un **Ingeniero Informatico** apasionado de los sistemas embebidos y la robótica. Lo que más me divierte es moverme en esa línea donde la electrónica y el código se encuentran. No solo escribo firmware; me gusta entender cómo fluye la corriente por el circuito. 
+Soy un **Ingeniero Informatico** apasionado de los sistemas embebidos y la robótica. Lo que más me divierte es moverme en esa línea donde la electrónica y el código se encuentran. No solo escribo firmware, me gusta entender cómo fluye la corriente por el circuito. 
 
 Para mí, cada proyecto es una oportunidad para **aprender y expandir mi conocimiento**. Me motiva desarrollar ideas que tengan una utilidad real, llevando un prototipo desde el esquema electrónico hasta un sistema conectado y funcional.
 
@@ -14,7 +14,6 @@ Para mí, cada proyecto es una oportunidad para **aprender y expandir mi conocim
 **Hardware** 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-3C525C?style=flat&logo=mqtt&logoColor=white)
 
 ### 🚀 Lo que me mueve:
 * **Código & Hardware:** Disfruto tanto diseñando la lógica en C/C++ como peleándome con un multímetro.
