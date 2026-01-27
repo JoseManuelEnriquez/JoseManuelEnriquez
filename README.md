@@ -4,6 +4,8 @@ Soy un **Ingeniero Informatico** apasionado de los sistemas embebidos y la robó
 
 Para mí, cada proyecto es una oportunidad para **aprender y expandir mi conocimiento**. Me motiva desarrollar ideas que tengan una utilidad real, llevando un prototipo desde el esquema electrónico hasta un sistema conectado y funcional.
 
+### 🛠️ Tecnologías y Herramientas
+
 **Lenguajes y Software** 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
