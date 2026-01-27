@@ -1,6 +1,8 @@
 ## ¡Hola! Soy Jose Manuel 👋
 
-![Banner de mi perfil](https://github.com/tu-usuario/tu-repo/blob/main/img/banner.png?raw=true)
+<p align="center">
+  <img src="banner.png" alt="Banner de mi perfil" width="100%">
+</p>
 
 Soy un **Ingeniero Informatico** apasionado de los sistemas embebidos y la robótica. Lo que más me divierte es moverme en esa línea donde la electrónica y el código se encuentran. No solo escribo firmware, me gusta entender cómo fluye la corriente por el circuito. 
 
