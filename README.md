@@ -25,6 +25,16 @@ Para mí, cada proyecto es una oportunidad para **aprender y expandir mi conocim
 > "Si hay un problema que se puede resolver combinando unos cuantos componentes y un buen algoritmo, ahí es donde me encontrarás."
 ---
 
+### 🏆 Proyectos Finalizados
+### 📟 [AVR-HAL-328P](https://github.com/JoseManuelEnriquez/atmega328p-hal)
+
+Capa de abstracción de hardware para el microcontrolador **ATmega328P** (arquitectura AVR).
+
+* **ESP**: Una librería ligera y eficiente que proporciona una API de alto nivel para controlar periféricos sin manipular registros directamente. 
+* **ENG**: A lightweight and efficient library providing a high-level API to control peripherals without direct register manipulation. 
+
+[![Ver Repositorio](https://img.shields.io/badge/Código_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseManuelEnriquez/atmega328p-hal)
+
 ### 🔭 En qué estoy trabajando actualmente
 * 🛠️ **DashBoardAndESP32**: Sistema de monitorizacion implementando firmware para ESP32 mediante gestion de tareas con freeRTOS y MQTT como protocolo de comunicacion.
 
