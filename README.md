@@ -27,13 +27,18 @@ Para mí, cada proyecto es una oportunidad para **aprender y expandir mi conocim
 
 ### 🏆 Proyectos Finalizados
 ### 📟 [AVR-HAL-328P](https://github.com/JoseManuelEnriquez/atmega328p-hal)
-
-Capa de abstracción de hardware para el microcontrolador **ATmega328P** (arquitectura AVR).
-
+![C](https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c) ![AVR](https://img.shields.io/badge/Arch-AVR-orange?style=flat-square) ![Bare Metal](https://img.shields.io/badge/Level-Bare--Metal-red?style=flat-square)
 * **ESP**: Una librería ligera y eficiente que proporciona una API de alto nivel para controlar periféricos sin manipular registros directamente. 
 * **ENG**: A lightweight and efficient library providing a high-level API to control peripherals without direct register manipulation. 
 
 [![Ver Repositorio](https://img.shields.io/badge/Código_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseManuelEnriquez/atmega328p-hal)
+
+### 🌡️ [esp-idf-dht11](https://github.com/JoseManuelEnriquez/esp-idf-dht11)
+![C](https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c) ![ESP32](https://img.shields.io/badge/Platform-ESP32-E7352C?style=flat-square&logo=espressif) ![ESP-IDF](https://img.shields.io/badge/Framework-ESP--IDF-blue?style=flat-square)
+* **ESP**: Implementación de drivers de bajo nivel para el sensor de temperatura y humedad DHT11, desarrollados específicamente para el framework ESP-IDF
+* **ENG**: This is a lightweight driver for the DHT11 sensor (module version with expansion board) tailored for the ESP32 using the ESP-IDF framework.
+
+[![Ver Repositorio](https://img.shields.io/badge/Código_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseManuelEnriquez/esp-idf-dht11)
 
 ### 🔭 En qué estoy trabajando actualmente
 * 🛠️ **DashBoardAndESP32**: Sistema de monitorizacion implementando firmware para ESP32 mediante gestion de tareas con freeRTOS y MQTT como protocolo de comunicacion.
