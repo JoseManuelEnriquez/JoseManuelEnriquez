@@ -40,13 +40,21 @@ Para mí, cada proyecto es una oportunidad para **aprender y expandir mi conocim
 
 [![Ver Repositorio](https://img.shields.io/badge/Código_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseManuelEnriquez/esp-idf-dht11)
 
-### 🛠️ [DashBoardAndESP32](https://github.com/JoseManuelEnriquez/Dashboard-And-ESP32)
+### 🛠️ [dashboard-and-esp32](https://github.com/JoseManuelEnriquez/Dashboard-And-ESP32)
 ![C](https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c) ![ESP32](https://img.shields.io/badge/Platform-ESP32-E7352C?style=flat-square&logo=espressif) ![ESP-IDF](https://img.shields.io/badge/Framework-ESP--IDF-blue?style=flat-square) ![MQTT](https://img.shields.io/badge/MQTT-3C3C3C?style=for-the-badge&logo=mqtt&logoColor=white)
 
 * **ESP**: Sistema de monitorizacion implementando firmware para ESP32 mediante gestion de tareas con freeRTOS y MQTT como protocolo de comunicacion.
 * **ENG**: Monitoring system implementing ESP32 firmware via FreeRTOS task management and MQTT as the communication protocol.
 
 [![ver Repositorio](https://img.shields.io/badge/Código_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseManuelEnriquez/Dashboard-And-ESP32)
+
+### 🎨 [ColoReader](https://github.com/JoseManuelEnriquez/ColoReader)
+![C](https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c) ![LPC4088](https://img.shields.io/badge/Platform-LPC4088-005A9C?style=flat-square&logo=nxp) ![Keil](https://img.shields.io/badge/IDE-Keil_uVision-004481?style=flat-square) ![I2C](https://img.shields.io/badge/Protocol-I2C%20%2F%20UART-orange?style=flat-square)
+
+* **ESP**: Firmware para la extracción de datos de color mediante el sensor TCS34725, implementando un protocolo de comunicación robusto entre un MCU ARM Cortex-M4 y PC.
+* **ENG**: Firmware for color data extraction using the TCS34725 sensor, implementing a robust communication protocol between an ARM Cortex-M4 MCU and a PC.
+
+[![ver Repositorio](https://img.shields.io/badge/Código_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseManuelEnriquez/ColoReader)
 
 <!-- ### 🔭 En qué estoy trabajando actualmente --> 
 
