@@ -1,8 +1,8 @@
 ## ¡Hola! Soy Jose Manuel 👋
 
-Soy un **Ingeniero Informatico** apasionado de los sistemas embebidos y la robótica. Lo que más me divierte es moverme en esa línea donde la electrónica y el código se encuentran. No solo escribo firmware, me gusta entender cómo fluye la corriente por el circuito. 
+Soy **Junior Embedded Software Engineer** e Ingeniero Informático. Si tuviera que resumir lo que hago, diría que me dedico a dar vida a los objetos a través del código.
 
-Para mí, cada proyecto es una oportunidad para **aprender y expandir mi conocimiento**. Me motiva desarrollar ideas que tengan una utilidad real, llevando un prototipo desde el esquema electrónico hasta un sistema conectado y funcional.
+Siempre me ha fascinado la robótica y el mundo de los sistemas embebidos porque es donde el software deja de ser algo abstracto y empieza a mover motores, leer sensores y reaccionar al mundo físico. No soy un experto diseñando placas desde cero, pero tengo la base de electrónica necesaria para entender un esquemático, usar el polímetro si algo no cuadra y saber exactamente qué está pasando bajo el capó de mi firmware.
 
 ### 🛠️ Tecnologías y Herramientas
 
