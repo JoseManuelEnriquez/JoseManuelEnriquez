@@ -40,7 +40,7 @@ Siempre me ha fascinado la robótica y el mundo de los sistemas embebidos porque
 
 [![Ver Repositorio](https://img.shields.io/badge/Código_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseManuelEnriquez/esp-idf-dht11)
 
-### 🛠️ [dashboard-and-esp32](https://github.com/JoseManuelEnriquez/Dashboard-And-ESP32)
+### 🛠️ [monitoring-system-esp32](https://github.com/JoseManuelEnriquez/monitoring-system-esp32)
 ![C](https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c) ![ESP32](https://img.shields.io/badge/Platform-ESP32-E7352C?style=flat-square&logo=espressif) ![ESP-IDF](https://img.shields.io/badge/Framework-ESP--IDF-blue?style=flat-square) ![MQTT](https://img.shields.io/badge/MQTT-3C3C3C?style=for-the-badge&logo=mqtt&logoColor=white)
 
 * **ESP**: Sistema de monitorizacion implementando firmware para ESP32 mediante gestion de tareas con freeRTOS y MQTT como protocolo de comunicacion.
