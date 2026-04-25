@@ -59,5 +59,4 @@ Siempre me ha fascinado la robótica y el mundo de los sistemas embebidos porque
 <!-- ### 🔭 En qué estoy trabajando actualmente --> 
 
 ### 🌱 Próximos pasos y aprendizaje
-* 🛰️ **RTOS (Real-Time Operating Systems)**: Profundizando en FreeRTOS para sistemas más complejos.
-* 🖥️ **Diseño de PCBs**: Aprendiendo a diseñar placas de circuito impreso en [KiCad/EasyEDA] para profesionalizar mis prototipos.
+🔒 TFG (En desarrollo) — Sistema de asistencia para personas con discapacidad visual. Raspberry Pi + cámara con VPU integrada para inferencia en tiempo real, dejando la CPU libre para la lógica de asistencia.
