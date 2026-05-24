@@ -2,7 +2,7 @@
 
 Soy **Junior Embedded Software Engineer** e Ingeniero Informático. Si tuviera que resumir lo que hago, diría que me dedico a dar vida a los objetos a través del código.
 
-Siempre me ha fascinado la robótica y el mundo de los sistemas embebidos porque es donde el software deja de ser algo abstracto y empieza a mover motores, leer sensores y reaccionar al mundo físico. No soy un experto diseñando placas desde cero, pero tengo la base de electrónica necesaria para entender un esquemático, usar el polímetro si algo no cuadra y saber exactamente qué está pasando bajo el capó de mi firmware.
+Siempre me ha fascinado la robótica y el mundo de los sistemas embebidos porque es donde el software deja de ser algo abstracto y empieza a mover motores, leer sensores y reaccionar al mundo físico. No soy un experto diseñando placas desde cero, pero tengo la base de electrónica necesaria para entender un esquemático, usar el polímetro si algo no cuadra y saber exactamente qué está pasando bajo el capó de mi firmware. Me gusta seguir creciendo en ese entorno porque creo que la versatilidad es una de las cualidades más valiosas que puede tener un ingeniero.
 
 ### 🛠️ Tecnologías y Herramientas
 
