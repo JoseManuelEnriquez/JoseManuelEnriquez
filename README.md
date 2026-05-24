@@ -18,8 +18,8 @@ Siempre me ha fascinado la robótica y el mundo de los sistemas embebidos porque
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 
 ### 🚀 Lo que me mueve:
-* **Código & Hardware:** Disfruto tanto diseñando la lógica en C/C++ como peleándome con un multímetro.
-* **Proyectos con propósito:** En mi perfil verás soluciones enfocadas en IoT y robótica, siempre buscando que el resultado sea práctico y robusto.
+* **Código & Hardware:** Disfruto tanto diseñando la lógica en C/C++ como analizando un circuito para entender qué está pasando a nivel eléctrico.
+* **Proyectos con propósito:** Me gusta trabajar en todo tipo de sistemas, pero donde más disfruto es en aquellos que tienen un impacto real en la vida de las personas.
 * **Aprendizaje continuo:** Mi objetivo es no dejar nunca de explorar nuevas arquitecturas y protocolos de comunicación.
 
 > "Si hay un problema que se puede resolver combinando unos cuantos componentes y un buen algoritmo, ahí es donde me encontrarás."
