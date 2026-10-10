@@ -1,62 +1,64 @@
-## ¡Hola! Soy Jose Manuel 👋
+# ¡Hola! Soy Jose Manuel 👋
 
-Soy **Ingeniero Informático** especializado en Arquitectura de Computadores, lo que me llevó de forma natural al mundo de los sistemas embebidos — donde el software y el hardware se encuentran
+### Ingeniero Informático | Embedded Software | IoT & Robótica
 
-Siempre me ha fascinado la robótica y el mundo de los sistemas embebidos porque es donde el software deja de ser algo abstracto y empieza a mover motores, leer sensores y reaccionar al mundo físico. No soy un experto diseñando placas desde cero, pero tengo la base de electrónica necesaria para entender un esquemático, usar el polímetro si algo no cuadra y saber exactamente qué está pasando bajo el capó de mi firmware. Me gusta seguir creciendo en ese entorno porque creo que la versatilidad es una de las cualidades más valiosas que puede tener un ingeniero.
+Soy Ingeniero Informático especializado en sistemas embebidos. Me interesa especialmente ese punto en el que el software deja de ser algo abstracto y empieza a interactuar con el mundo físico: controlar motores, leer sensores, comunicarse con otros dispositivos y responder a lo que ocurre a nuestro alrededor.
 
-### 🛠️ Tecnologías y Herramientas
+Mi trabajo e intereses giran en torno al desarrollo de firmware en C/C++, desde la programación de microcontroladores y el acceso a periféricos hasta el diseño de sistemas que necesitan ser fiables, eficientes y fáciles de mantener. Me gusta entender qué ocurre en cada capa, desde el comportamiento del hardware hasta las decisiones de arquitectura que dan forma al software.
 
-**Lenguajes y Software** 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+No me gusta quedarme únicamente en que algo funcione. También me interesa entender por qué funciona, qué alternativas existen y qué consecuencias tienen las decisiones que tomamos durante el desarrollo. Creo que esa curiosidad por ir un poco más allá es lo que nos permite construir mejores sistemas.
 
-**Hardware** 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+## 🛠️ Tecnologías y herramientas
 
-### 🚀 Lo que me mueve:
-* **Código & Hardware:** Disfruto tanto diseñando la lógica en C/C++ como analizando un circuito para entender qué está pasando a nivel eléctrico.
-* **Proyectos con propósito:** Me gusta trabajar en todo tipo de sistemas, pero donde más disfruto es en aquellos que tienen un impacto real en la vida de las personas.
-* **Aprendizaje continuo:** Mi objetivo es no dejar nunca de explorar nuevas arquitecturas y protocolos de comunicación.
+### Software & Firmware
 
-> "Si hay un problema que se puede resolver combinando unos cuantos componentes y un buen algoritmo, ahí es donde me encontrarás."
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+
+- **Firmware:** desarrollo en C/C++, programación de microcontroladores y sistemas bare-metal.
+- **Arquitectura de software:** diseño modular, orientación a objetos, principios SOLID y patrones de diseño.
+- **Periféricos y comunicaciones:** integración de interfaces de hardware y protocolos de comunicación.
+- **Calidad del software:** pruebas unitarias, pruebas de integración y depuración.
+- **Sistemas embebidos:** exploración de arquitecturas, herramientas de desarrollo y mecanismos de interacción entre software y hardware.
+
+### Hardware & Electrónica
+
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)](https://www.espressif.com/)
+
+- Desarrollo de prototipos con microcontroladores.
+- Lectura de esquemáticos y análisis de circuitos electrónicos.
+- Diseño e integración de PCBs.
+- Instrumentación y depuración de hardware.
+- Integración de sensores, actuadores y módulos de comunicación.
+
+## 🔬 Proyectos
+
+Me gusta abordar los proyectos desde una perspectiva integral: comprender el problema, definir los requisitos, estudiar las alternativas y diseñar una solución antes de lanzarme a escribir código.
+
+Entre mis intereses están los sistemas embebidos configurables, la robótica, el IoT y el desarrollo de dispositivos capaces de interactuar de forma fiable con su entorno.
+
+Actualmente estoy desarrollando **FlexCore**, una plataforma embebida configurable cuyo objetivo es adaptar el comportamiento del sistema a distintas aplicaciones sin tener que modificar el firmware para cada cambio. Un proyecto con el que quiero profundizar en el diseño de arquitecturas modulares, la gestión de periféricos y la construcción de sistemas robustos.
+
+## ✍️ Fuera del setup
+
+Además de desarrollar proyectos, me gusta compartir lo que voy aprendiendo y explorar qué hay detrás de las herramientas que utilizamos habitualmente.
+
+Por eso creé [**Fuera del setup**](https://www.fueradelsetup.es/), un blog en el que exploro el mundo de los sistemas embebidos partiendo de conceptos cotidianos del mundo maker y la electrónica.
+
+¿Por qué una función como `digitalWrite()` puede funcionar en distintas placas? ¿Qué ocurre realmente cuando compilamos un programa para un microcontrolador? ¿Qué decisiones de diseño hay detrás de las herramientas que usamos cada día?
+
+Son preguntas que me gusta investigar, documentar y explicar de forma cercana, conectando el código con el hardware y mostrando no solo cómo funcionan las cosas, sino también por qué están diseñadas de esa manera.
+
+También comparto el proceso de desarrollo de mis proyectos: las decisiones que tomo, las alternativas que descarto, los problemas que encuentro y las lecciones que saco por el camino.
+
+Porque creo que entender lo que hay detrás de una herramienta nos permite utilizarla mejor y tomar decisiones más conscientes al desarrollar nuestros propios sistemas.
+
+🌐 **Blog:** [www.fueradelsetup.es](https://www.fueradelsetup.es/)
+
 ---
 
-### 🏆 Proyectos Finalizados
-### 📟 [AVR-HAL-328P](https://github.com/JoseManuelEnriquez/atmega328p-hal)
-![C](https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c) ![AVR](https://img.shields.io/badge/Arch-AVR-orange?style=flat-square) ![Bare Metal](https://img.shields.io/badge/Level-Bare--Metal-red?style=flat-square)
-* **ESP**: Una librería ligera y eficiente que proporciona una API de alto nivel para controlar periféricos sin manipular registros directamente. 
-* **ENG**: A lightweight and efficient library providing a high-level API to control peripherals without direct register manipulation. 
-
-[![Ver Repositorio](https://img.shields.io/badge/Código_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseManuelEnriquez/atmega328p-hal)
-
-### 🌡️ [esp-idf-dht11](https://github.com/JoseManuelEnriquez/esp-idf-dht11)
-![C](https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c) ![ESP32](https://img.shields.io/badge/Platform-ESP32-E7352C?style=flat-square&logo=espressif) ![ESP-IDF](https://img.shields.io/badge/Framework-ESP--IDF-blue?style=flat-square)
-* **ESP**: Implementación de drivers de bajo nivel para el sensor de temperatura y humedad DHT11, desarrollados específicamente para el framework ESP-IDF
-* **ENG**: This is a lightweight driver for the DHT11 sensor (module version with expansion board) tailored for the ESP32 using the ESP-IDF framework.
-
-[![Ver Repositorio](https://img.shields.io/badge/Código_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseManuelEnriquez/esp-idf-dht11)
-
-### 🛠️ [monitoring-system-esp32](https://github.com/JoseManuelEnriquez/monitoring-system-esp32)
-![C](https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c) ![ESP32](https://img.shields.io/badge/Platform-ESP32-E7352C?style=flat-square&logo=espressif) ![ESP-IDF](https://img.shields.io/badge/Framework-ESP--IDF-blue?style=flat-square) ![MQTT](https://img.shields.io/badge/MQTT-3C3C3C?style=for-the-badge&logo=mqtt&logoColor=white)
-
-* **ESP**: Sistema de monitorizacion implementando firmware para ESP32 mediante gestion de tareas con freeRTOS y MQTT como protocolo de comunicacion.
-* **ENG**: Monitoring system implementing ESP32 firmware via FreeRTOS task management and MQTT as the communication protocol.
-
-[![ver Repositorio](https://img.shields.io/badge/Código_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseManuelEnriquez/Dashboard-And-ESP32)
-
-### 🎨 [ColoReader](https://github.com/JoseManuelEnriquez/ColoReader)
-![C](https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c) ![LPC4088](https://img.shields.io/badge/Platform-LPC4088-005A9C?style=flat-square&logo=nxp) ![Keil](https://img.shields.io/badge/IDE-Keil_uVision-004481?style=flat-square) ![I2C](https://img.shields.io/badge/Protocol-I2C%20%2F%20UART-orange?style=flat-square)
-
-* **ESP**: Firmware para la extracción de datos de color mediante el sensor TCS34725, implementando un protocolo de comunicación robusto entre un MCU ARM Cortex-M4 y PC.
-* **ENG**: Firmware for color data extraction using the TCS34725 sensor, implementing a robust communication protocol between an ARM Cortex-M4 MCU and a PC.
-
-[![ver Repositorio](https://img.shields.io/badge/Código_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseManuelEnriquez/ColoReader)
-
-<!-- ### 🔭 En qué estoy trabajando actualmente --> 
-
-### 🌱 Próximos pasos y aprendizaje
-🔒 TFG (En desarrollo) — Sistema de asistencia para personas con discapacidad visual. Raspberry Pi + cámara con VPU integrada para inferencia en tiempo real, dejando la CPU libre para la lógica de asistencia.
+📫 **¿Compartimos ideas o proyectos?** Me interesa conocer a otras personas apasionadas por los sistemas embebidos, el firmware, la electrónica y la robótica.
